@@ -1,0 +1,60 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "title": "Air Jordan 1 Retro High 'University Blue'",
+            "description": "Мужксая обувь",
+            "imageUrl": "http://localhost/Lab4/images/sneaker1.png",
+            "price": 49499
+        },
+        {
+            "id": 2,
+            "title": "Nike Air Max Terrascape 90",
+            "description": "Обувь для скейтборда",
+            "imageUrl": "http://localhost/Lab4/images/sneaker2.png",
+            "price": 17499
+        },
+        {
+            "id": 3,
+            "title": "Nike Blazer Mid Vintage Edition",
+            "description": "Мужская обувь",
+            "imageUrl": "http://localhost/Lab4/images/sneaker3.png",
+            "price": 6799
+        },
+        {
+            "id": 4,
+            "title": "Nike Air Jordan 1 Low Elevate 'University Blue'",
+            "description": "Мужская обувь",
+            "imageUrl": "http://localhost/Lab4/images/sneaker4.png",
+            "price": 12399
+        },
+        {
+            "id": 5,
+            "title": "ordan 1 Mid Elephant Toe",
+            "description": "Мужская обувь",
+            "imageUrl": "http://localhost/Lab4/images/sneaker5.png",
+            "price": 12399
+        },
+        {
+            "id": 6,
+            "title": "Nike Cosmic Unity 2 'Coconut Milk'",
+            "description": "Мужская обувь",
+            "imageUrl": "http://localhost/Lab4/images/sneaker6.png",
+            "price": 12399
+        },
+        {
+            "id": 7,
+            "title": "Nike Air Max 97",
+            "description": "Мужская обувь",
+            "imageUrl": "http://localhost/Lab4/images/sneaker7.png",
+            "price": 12399
+        },
+        {
+            "id": 8,
+            "title": "Nike Challenger OG",
+            "description": "Мужская обувь",
+            "imageUrl": "http://localhost/Lab4/images/sneaker8.png",
+            "price": 12399
+        }
+    ]
+}
